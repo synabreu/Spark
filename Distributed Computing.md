@@ -10,7 +10,7 @@
 - [1.1 분산 컴퓨팅 소개](https://github.com/synabreu/Spark/blob/main/Distributed_Computing_01.md)
 
   - [1.1.1 데이터 병렬 처리](https://https://github.com/synabreu/Spark/blob/main/Distributed_Computing_01.md)
-  - [1.1.2 맵리듀스 패러다임을 사용한 데이터 병렬 처리](https://https://github.com/synabreu/Spark/blob/main/Distributed_Computing_02.md)
+  - [1.1.2 맵리듀스 패러다임을 사용한 데이터 병렬 처리](https://github.com/synabreu/Spark/blob/main/Distributed_Computing_02.md)
 
 - [1.2 Apache Spark를 사용한 분산 컴퓨팅](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_01.md)
 
