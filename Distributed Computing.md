@@ -9,13 +9,13 @@
 
 - [1.1 분산 컴퓨팅 소개](https://github.com/synabreu/Spark/blob/main/Distributed_Computing_01.md)
 
-  - [1.1.1 데이터 병렬 처리](https://https://github.com/synabreu/Spark/blob/main/Distributed_Computing_01.md)
+  - [1.1.1 데이터 병렬 처리](https://github.com/synabreu/Spark/blob/main/Distributed_Computing_01.md)
   - [1.1.2 맵리듀스 패러다임을 사용한 데이터 병렬 처리](https://github.com/synabreu/Spark/blob/main/Distributed_Computing_02.md)
 
-- [1.2 Apache Spark를 사용한 분산 컴퓨팅](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_01.md)
+- [1.2 Apache Spark를 사용한 분산 컴퓨팅](https://github.com/synabreu/Spark/blob/main/Apache_Spark_01.md)
 
-  - [1.2.1 아파치 스파크 소개](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_02.md)
-  - [1.2.2 RDD를 사용한 데이터 병렬 처리](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_03.md)
+  - [1.2.1 아파치 스파크 소개](https://github.com/synabreu/Spark/blob/main/Apache_Spark_02.md)
+  - [1.2.2 RDD를 사용한 데이터 병렬 처리](https://github.com/synabreu/Spark/blob/main/Apache_Spark_03.md)
   - [1.2.3 고차 함수(Higher-order)](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_04.md)
   - [1.2.4 아파치 스파크 클러스터 아키텍처](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_05.md) 
   - [1.2.5 스파크 시작하기](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_06.md)
