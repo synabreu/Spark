@@ -12,19 +12,19 @@
   - [1.1.1 데이터 병렬 처리](https://https://github.com/synabreu/Spark/blob/main/Distributed_Computing_01.md)
   - [1.1.2 맵리듀스 패러다임을 사용한 데이터 병렬 처리](https://https://github.com/synabreu/Spark/blob/main/Distributed_Computing_02.md)
 
-- [1.2 Apache Spark를 사용한 분산 컴퓨팅](https://https://github.com/synabreu/Spark/main/Apache_Spark_01.md)
+- [1.2 Apache Spark를 사용한 분산 컴퓨팅](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_01.md)
 
-  - [1.2.1 아파치 스파크 소개](https://https://github.com/synabreu/Spark/main/Apache_Spark_02.md)
-  - [1.2.2 RDD를 사용한 데이터 병렬 처리](https://https://github.com/synabreu/Spark/main/Apache_Spark_03.md)
-  - [1.2.3 고차 함수(Higher-order)](https://https://github.com/synabreu/Spark/main/Apache_Spark_04.md)
-  - [1.2.4 아파치 스파크 클러스터 아키텍처](https://https://github.com/synabreu/Spark/main/Apache_Spark_05.md) 
-  - [1.2.5 스파크 시작하기](https://https://github.com/synabreu/Spark/main/Apache_Spark_06.md)
+  - [1.2.1 아파치 스파크 소개](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_02.md)
+  - [1.2.2 RDD를 사용한 데이터 병렬 처리](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_03.md)
+  - [1.2.3 고차 함수(Higher-order)](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_04.md)
+  - [1.2.4 아파치 스파크 클러스터 아키텍처](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_05.md) 
+  - [1.2.5 스파크 시작하기](https://https://github.com/synabreu/Spark/blob/main/Apache_Spark_06.md)
 
-- [1.3 Spark SQL 및 DataFrames를 사용한 빅 데이터 처리](https://https://github.com/synabreu/Spark/main/Spark_SQL_01.md)
+- [1.3 Spark SQL 및 DataFrames를 사용한 빅 데이터 처리](https://https://github.com/synabreu/Spark/blob/main/Spark_SQL_01.md)
 
-  - [1.3.1 Spark DataFrame으로 데이터 변환](https://https://github.com/synabreu/Spark/main/Spark_SQL_02.md)
-  - [1.3.2 Spark 상에서 SQL 사용하기](https://https://github.com/synabreu/Spark/main/Spark_SQL_03.md) 
-  - [1.3.3 아파치 스파크 3.0 새 기능 소개](https://https://github.com/synabreu/Spark/main/Spark_SQL_04.md)
+  - [1.3.1 Spark DataFrame으로 데이터 변환](https://https://github.com/synabreu/Spark/blob/main/Spark_SQL_02.md)
+  - [1.3.2 Spark 상에서 SQL 사용하기](https://https://github.com/synabreu/Spark/main/blob/Spark_SQL_03.md) 
+  - [1.3.3 아파치 스파크 3.0 새 기능 소개](https://https://github.com/synabreu/Spark/blob/main/Spark_SQL_04.md)
 
 
 
