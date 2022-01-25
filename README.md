@@ -10,7 +10,7 @@
 
 #### 다음은 스파크에 관련한 내용에 대해 간단한 개요를 설명한 링크들입니다. 
 
-- [0.1 스파크의 개요 및 구성요소]
+- 0.1 스파크의 개요 및 구성요소
   - [0.1.1 스파크 아키텍처](https://github.com/synabreu/Spark/blob/main/Chapter00/Spark_Introduction_01.md)
   - [0.1.2 탄력적인 분산 데이터셋(RDD,Resilient Distrubuted Datasets)](https://github.com/synabreu/Spark/blob/main/Chapter00/Spark_Introduction_02.md)
   - [0.1.3 SQL, DataFrames 과 외부의 데이터셋](https://github.com/synabreu/Spark/blob/main/Chapter00/Spark_Introduction_03.md)
@@ -18,7 +18,7 @@
   - [0.1.5 스파크 스트리밍](https://github.com/synabreu/Spark/blob/main/Chapter00/Spark_Introduction_05.md)
   - [0.1.6 MLib(머신러닝)](https://github.com/synabreu/Spark/blob/main/Chapter00/Spark_Introduction_06.md)
 
-- [1.1 분산 컴퓨팅 소개]
+- [1.1 분산 컴퓨팅 소개](https://github.com/synabreu/Spark/blob/main/Chapter01/Distributed_Computing_00.md) 
   - [1.1.1 데이터 병렬 처리](https://github.com/synabreu/Spark/blob/main/Chapter01/Distributed_Computing_01.md)
   - [1.1.2 맵리듀스 패러다임을 사용한 데이터 병렬 처리](https://github.com/synabreu/Spark/blob/main/Chapter01/Distributed_Computing_02.md)
 
