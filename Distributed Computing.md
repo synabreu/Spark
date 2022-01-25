@@ -7,10 +7,10 @@
 ##### 이 절에서는 분산 컴퓨팅, 그 필요성, 그리고 이를 사용하여 빠르고 효율적인 방식으로 매우 많은 양의 데이터를 처리하는 방법에 대해 알아봅니다.
 
 
-- [1.1 분산 컴퓨팅 소개](https://https://github.com/synabreu/Spark/main/Distributed_Computing_01.md)
+- [1.1 분산 컴퓨팅 소개](https://github.com/synabreu/Spark/blob/main/Distributed_Computing_01.md)
 
-  - [1.1.1 데이터 병렬 처리](https://https://github.com/synabreu/Spark/main/Distributed_Computing_01.md)
-  - [1.1.2 맵리듀스 패러다임을 사용한 데이터 병렬 처리](https://https://github.com/synabreu/Spark/main/Distributed_Computing_02.md)
+  - [1.1.1 데이터 병렬 처리](https://https://github.com/synabreu/Spark/blob/main/Distributed_Computing_01.md)
+  - [1.1.2 맵리듀스 패러다임을 사용한 데이터 병렬 처리](https://https://github.com/synabreu/Spark/blob/main/Distributed_Computing_02.md)
 
 - [1.2 Apache Spark를 사용한 분산 컴퓨팅](https://https://github.com/synabreu/Spark/main/Apache_Spark_01.md)
 
