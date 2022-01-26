@@ -40,4 +40,4 @@ wordCountDf.write.csv("/tmp/wordcounts.csv")
 ##### 위의 소스 코드에서 show() 또는 write() 함수가 액션입니다. select() 및 groupBy()를 포함한 다른 모든 함수는 Transformation 이며 Spark job을 action은 아닙니다. 
 
 ***알림*** 
-read() 함수는 Transformation 이지만 때때로 실제로 스파크 잡(job)을 action 한다는 것을 알 수 있습니다. 그 이유는 특정 구조화 및 반정형 구데이터 형식의 경우, 스파크가 기본 파일에서 스키마 정보를 추론하고 이를 수행하기 위해 실제 파일의 작은 하위 집합을 처리하기 때문입니다.
+##### read() 함수는 Transformation 이지만 때때로 실제로 스파크 잡(job)을 action 한다는 것을 알 수 있습니다. 그 이유는 특정 구조화 및 반정형 구데이터 형식의 경우, 스파크가 기본 파일에서 스키마 정보를 추론하고 이를 수행하기 위해 실제 파일의 작은 하위 집합을 처리하기 때문입니다.
