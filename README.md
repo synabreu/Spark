@@ -32,9 +32,6 @@
 
 - [1.3 Spark SQL 및 DataFrames를 사용한 빅 데이터 처리](https://github.com/synabreu/Spark/blob/main/Chapter01/Spark_SQL_01.md)
 
-  - [1.3.1 Spark DataFrame으로 데이터 변환](https://github.com/synabreu/Spark/blob/main/Chapter01/Spark_SQL_02.md)
-  - [1.3.2 Spark 상에서 SQL 사용하기](https://github.com/synabreu/Spark/main/blob/Chapter01/Spark_SQL_03.md) 
-  - [1.3.3 아파치 스파크 3.0 새 기능 소개](https://github.com/synabreu/Spark/blob/main/Chapter01/Spark_SQL_04.md)
 
 
 
