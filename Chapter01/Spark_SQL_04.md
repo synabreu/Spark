@@ -5,3 +5,12 @@
 ##### 스파크 3.0을 통해 스파크 SQL은 이제 ANSI 표준을 준수하므로 다른 SQL 기반 플랫폼에 익숙한 데이터 분석가라면 최소한의 노력으로 스파크 SQL을 시작할 수 있습니다.
 
 ##### DataFrames와 Spark SQL은 동일한 기본 Spark SQL 엔진을 사용하므로 완전히 상호 교환 가능하며 SQL로 쉽게 표현되는 코드 부분에 대해 사용자가 DataFrame DSL과 Spark SQL 문을 혼합하는 경우가 많습니다. 이제 Spark SQL을 사용하여 단어 수 계산 프로그램을 다시 작성해 보겠습니다. 먼저 텍스트 파일을 구분 기호로 공백이 있는 CSV 파일로 지정하는 테이블을 만듭니다. 텍스트 파일의 각 줄을 읽고 각 파일을 한 번에 개별 단어로 분할하는 깔끔한 로직입니다.
+
+~~~
+CREATE TABLE word_counts (word STRING) 
+USING csv 
+OPTIONS("delimiter"=" ") 
+LOCATION "/databricks-datasets/README.md" 
+~~~
+
+##### 이제 단일 단어 열의 테이블이 있으므로 단어 열을 GROUP BY하고, 단어 수를 얻기 위해 COUNT() 작업을 수행하기만 하면 됩니다.
