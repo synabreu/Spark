@@ -26,7 +26,7 @@
   - [1.2 Apache Spark를 사용한 분산 컴퓨팅](https://github.com/synabreu/Spark/blob/main/Chapter01/Apache_Spark_01.md)
   - [1.3 Spark SQL 및 DataFrames를 사용한 빅 데이터 처리](https://github.com/synabreu/Spark/blob/main/Chapter01/Spark_SQL_01.md)
 
-- 2장 데이터 주입(https://github.com/synabreu/Spark/blob/main/Chapter02/Chapter02.md)
+- [2장 데이터 주입](https://github.com/synabreu/Spark/blob/main/Chapter02/Chapter02.md)
   - [2.1 기업 의사결정 지원 시스템 소개](https://github.com/synabreu/Spark/blob/main/Chapter02/Decision_Support_00.md)
   - [2.2 데이터 소스로 부터 데이터 주입](https://github.com/synabreu/Spark/blob/main/Chapter02/Data_Sources_00.md)
   - [2.3 데이터를 데이터 싱크 안에 주입](https://github.com/synabreu/Spark/blob/main/Chapter02/Data_Sinks_00.md)
